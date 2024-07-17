@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/0058-length-of-last-word) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
+| [1899-count-items-matching-a-rule](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/1899-count-items-matching-a-rule) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 ## Sliding Window
 |  |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1505-create-target-array-in-the-given-order](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/1505-create-target-array-in-the-given-order) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
+| [1899-count-items-matching-a-rule](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/1899-count-items-matching-a-rule) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/2219-maximum-number-of-words-found-in-sentences) |
