@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0506-relative-ranks](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/0506-relative-ranks) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1505-create-target-array-in-the-given-order](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/1505-create-target-array-in-the-given-order) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/0088-merge-sorted-array) |
+| [0506-relative-ranks](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/0506-relative-ranks) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
@@ -145,4 +147,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0506-relative-ranks](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/0506-relative-ranks) |
 <!---LeetCode Topics End-->
