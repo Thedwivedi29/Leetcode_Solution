@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/0189-rotate-array) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0506-relative-ranks](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/0506-relative-ranks) |
 | [0983-validate-stack-sequences](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/0983-validate-stack-sequences) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0506-relative-ranks](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/0506-relative-ranks) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/2042-maximum-product-difference-between-two-pairs) |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0506-relative-ranks](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/0506-relative-ranks) |
 ## Divide and Conquer
 |  |
@@ -203,8 +206,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/0004-median-of-two-sorted-arrays) |
 | [0169-majority-element](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/0191-number-of-1-bits) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/0215-kth-largest-element-in-an-array) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/0098-validate-binary-search-tree) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
