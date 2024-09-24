@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1899-count-items-matching-a-rule](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/1899-count-items-matching-a-rule) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/2219-maximum-number-of-words-found-in-sentences) |
+| [2786-find-the-longest-semi-repetitive-substring](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/2786-find-the-longest-semi-repetitive-substring) |
 ## Sliding Window
 |  |
 | ------- |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/0219-contains-duplicate-ii) |
 | [0567-permutation-in-string](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/0643-maximum-average-subarray-i) |
+| [2786-find-the-longest-semi-repetitive-substring](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/2786-find-the-longest-semi-repetitive-substring) |
 ## Trie
 |  |
 | ------- |
