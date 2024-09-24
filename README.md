@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/0219-contains-duplicate-ii) |
 | [0567-permutation-in-string](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/0567-permutation-in-string) |
+| [0643-maximum-average-subarray-i](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/0643-maximum-average-subarray-i) |
 ## Trie
 |  |
 | ------- |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/0506-relative-ranks) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/0560-subarray-sum-equals-k) |
+| [0643-maximum-average-subarray-i](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/0643-maximum-average-subarray-i) |
 | [0983-validate-stack-sequences](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/0983-validate-stack-sequences) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
