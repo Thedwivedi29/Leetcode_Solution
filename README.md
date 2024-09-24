@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0932-monotonic-array](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/0932-monotonic-array) |
 | [0983-validate-stack-sequences](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/0983-validate-stack-sequences) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1505-create-target-array-in-the-given-order](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/1505-create-target-array-in-the-given-order) |
@@ -157,12 +158,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/0540-single-element-in-a-sorted-array) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Matrix
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/0074-search-a-2d-matrix) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/1677-matrix-diagonal-sum) |
 ## Sorting
