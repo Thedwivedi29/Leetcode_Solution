@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0086-partition-list](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/0086-partition-list) |
 | [0092-reverse-linked-list-ii](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/0092-reverse-linked-list-ii) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0141-linked-list-cycle](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/0141-linked-list-cycle) |
 ## Math
 |  |
 | ------- |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/0013-roman-to-integer) |
+| [0141-linked-list-cycle](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/0141-linked-list-cycle) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/3446-find-the-number-of-good-pairs-i) |
 ## String
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0086-partition-list](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/0088-merge-sorted-array) |
+| [0141-linked-list-cycle](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/0141-linked-list-cycle) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Binary Search
 |  |
