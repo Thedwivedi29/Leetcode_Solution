@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/0219-contains-duplicate-ii) |
+| [0347-top-k-frequent-elements](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/0347-top-k-frequent-elements) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/3446-find-the-number-of-good-pairs-i) |
 ## String
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/0287-find-the-duplicate-number) |
+| [0347-top-k-frequent-elements](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/0347-top-k-frequent-elements) |
 | [0506-relative-ranks](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/0506-relative-ranks) |
 | [0983-validate-stack-sequences](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/0983-validate-stack-sequences) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/0217-contains-duplicate) |
+| [0347-top-k-frequent-elements](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/0347-top-k-frequent-elements) |
 | [0506-relative-ranks](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/0506-relative-ranks) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/2042-maximum-product-difference-between-two-pairs) |
@@ -194,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/0347-top-k-frequent-elements) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Simulation
 |  |
@@ -212,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/0347-top-k-frequent-elements) |
 | [0506-relative-ranks](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/0506-relative-ranks) |
 ## Divide and Conquer
 |  |
@@ -220,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/0347-top-k-frequent-elements) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -228,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/0347-top-k-frequent-elements) |
 ## Design
 |  |
 | ------- |
@@ -236,4 +243,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/0232-implement-queue-using-stacks) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
