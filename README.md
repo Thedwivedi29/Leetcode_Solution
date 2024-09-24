@@ -325,4 +325,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/0560-subarray-sum-equals-k) |
 | [1603-running-sum-of-1d-array](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/1603-running-sum-of-1d-array) |
+## Graph
+|  |
+| ------- |
+| [1916-find-center-of-star-graph](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/1916-find-center-of-star-graph) |
 <!---LeetCode Topics End-->
