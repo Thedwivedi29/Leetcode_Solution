@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1950-sign-of-the-product-of-an-array](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2556-convert-the-temperature](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/2556-convert-the-temperature) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2812-find-the-maximum-achievable-number](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/2812-find-the-maximum-achievable-number) |
 ## Recursion
 |  |
 | ------- |
