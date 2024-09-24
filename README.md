@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/0389-find-the-difference) |
 | [0560-subarray-sum-equals-k](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/0567-permutation-in-string) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/3446-find-the-number-of-good-pairs-i) |
 ## String
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/0058-length-of-last-word) |
 | [0389-find-the-difference](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/0392-is-subsequence) |
+| [0567-permutation-in-string](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/0567-permutation-in-string) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1899-count-items-matching-a-rule](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/1899-count-items-matching-a-rule) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/2219-maximum-number-of-words-found-in-sentences) |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/0219-contains-duplicate-ii) |
+| [0567-permutation-in-string](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/0567-permutation-in-string) |
 ## Trie
 |  |
 | ------- |
@@ -126,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/0392-is-subsequence) |
+| [0567-permutation-in-string](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/0567-permutation-in-string) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Binary Search
 |  |
