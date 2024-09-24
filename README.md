@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/0136-single-number) |
+| [0191-number-of-1-bits](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/0191-number-of-1-bits) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 ## Heap (Priority Queue)
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/0004-median-of-two-sorted-arrays) |
 | [0169-majority-element](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/0169-majority-element) |
+| [0191-number-of-1-bits](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/0191-number-of-1-bits) |
 ## Binary Search Tree
 |  |
 | ------- |
