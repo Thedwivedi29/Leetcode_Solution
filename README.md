@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2786-find-the-longest-semi-repetitive-substring](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/2786-find-the-longest-semi-repetitive-substring) |
 | [3194-find-words-containing-character](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/3194-find-words-containing-character) |
+| [3379-score-of-a-string](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/3379-score-of-a-string) |
 ## Sliding Window
 |  |
 | ------- |
