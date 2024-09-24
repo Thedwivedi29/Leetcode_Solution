@@ -7,7 +7,4 @@ class Solution:
             while stack!=[] and stack[-1]==popped[j]:
                 stack.pop()
                 j+=1
-        if stack==[]:
-            return True
-        else:
-            return False
+        return stack==[]
