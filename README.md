@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/0189-rotate-array) |
+| [0441-arranging-coins](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/0441-arranging-coins) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 ## Recursion
 |  |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/0074-search-a-2d-matrix) |
 | [0287-find-the-duplicate-number](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0441-arranging-coins](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/0441-arranging-coins) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Matrix
