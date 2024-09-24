@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1505-create-target-array-in-the-given-order](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/1505-create-target-array-in-the-given-order) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1635-number-of-good-pairs](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/1635-number-of-good-pairs) |
 | [1677-matrix-diagonal-sum](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/1677-matrix-diagonal-sum) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/0389-find-the-difference) |
 | [0506-relative-ranks](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/0506-relative-ranks) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
