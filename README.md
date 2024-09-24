@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/1635-number-of-good-pairs) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+| [3412-permutation-difference-between-two-strings](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/3412-permutation-difference-between-two-strings) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/3446-find-the-number-of-good-pairs-i) |
 ## String
 |  |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2786-find-the-longest-semi-repetitive-substring](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/2786-find-the-longest-semi-repetitive-substring) |
 | [3194-find-words-containing-character](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/3194-find-words-containing-character) |
 | [3379-score-of-a-string](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/3379-score-of-a-string) |
+| [3412-permutation-difference-between-two-strings](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/3412-permutation-difference-between-two-strings) |
 ## Sliding Window
 |  |
 | ------- |
