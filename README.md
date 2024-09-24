@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1392-find-the-difference-of-two-arrays](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/1635-number-of-good-pairs) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/3446-find-the-number-of-good-pairs-i) |
 ## String
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/0567-permutation-in-string) |
 | [0782-jewels-and-stones](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/0782-jewels-and-stones) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1899-count-items-matching-a-rule](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/1899-count-items-matching-a-rule) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/1635-number-of-good-pairs) |
 | [1677-matrix-diagonal-sum](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/1677-matrix-diagonal-sum) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1791-richest-customer-wealth](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/1791-richest-customer-wealth) |
 | [1899-count-items-matching-a-rule](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/1899-count-items-matching-a-rule) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/1950-sign-of-the-product-of-an-array) |
@@ -274,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/0347-top-k-frequent-elements) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/1635-number-of-good-pairs) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 ## Simulation
 |  |
@@ -291,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/0191-number-of-1-bits) |
 | [0287-find-the-duplicate-number](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/0287-find-the-duplicate-number) |
 | [0389-find-the-difference](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/0389-find-the-difference) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 ## Heap (Priority Queue)
