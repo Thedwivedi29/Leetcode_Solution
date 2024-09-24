@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/0009-palindrome-number) |
+| [0012-integer-to-roman](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/0012-integer-to-roman) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 ## Recursion
 |  |
@@ -23,12 +24,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/0012-integer-to-roman) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/3446-find-the-number-of-good-pairs-i) |
 ## String
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/0058-length-of-last-word) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
