@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0983-validate-stack-sequences](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/0983-validate-stack-sequences) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1496-lucky-numbers-in-a-matrix](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1505-create-target-array-in-the-given-order](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/1505-create-target-array-in-the-given-order) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1580-shuffle-the-array](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/1580-shuffle-the-array) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/0074-search-a-2d-matrix) |
+| [1496-lucky-numbers-in-a-matrix](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/1677-matrix-diagonal-sum) |
 ## Sorting
 |  |
