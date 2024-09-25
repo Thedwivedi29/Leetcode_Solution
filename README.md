@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/0189-rotate-array) |
 | [0441-arranging-coins](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/0441-arranging-coins) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1610-xor-operation-in-an-array](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/1610-xor-operation-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/1635-number-of-good-pairs) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2383-add-two-integers](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/2383-add-two-integers) |
@@ -307,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/0191-number-of-1-bits) |
 | [0287-find-the-duplicate-number](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/0287-find-the-duplicate-number) |
 | [0389-find-the-difference](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/0389-find-the-difference) |
+| [1610-xor-operation-in-an-array](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/1610-xor-operation-in-an-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
