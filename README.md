@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2812-find-the-maximum-achievable-number](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/2812-find-the-maximum-achievable-number) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3567-convert-date-to-binary](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/3567-convert-date-to-binary) |
 ## Recursion
 |  |
 | ------- |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3194-find-words-containing-character](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/3194-find-words-containing-character) |
 | [3379-score-of-a-string](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/3379-score-of-a-string) |
 | [3412-permutation-difference-between-two-strings](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/3412-permutation-difference-between-two-strings) |
+| [3567-convert-date-to-binary](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/3567-convert-date-to-binary) |
 ## Sliding Window
 |  |
 | ------- |
