@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1899-count-items-matching-a-rule](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/1899-count-items-matching-a-rule) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+| [2128-reverse-prefix-of-word](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/2128-reverse-prefix-of-word) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2786-find-the-longest-semi-repetitive-substring](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/2786-find-the-longest-semi-repetitive-substring) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/0567-permutation-in-string) |
+| [2128-reverse-prefix-of-word](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/2128-reverse-prefix-of-word) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Binary Search
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/0094-binary-tree-inorder-traversal) |
 | [0232-implement-queue-using-stacks](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/0232-implement-queue-using-stacks) |
 | [0983-validate-stack-sequences](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/0983-validate-stack-sequences) |
+| [2128-reverse-prefix-of-word](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/2128-reverse-prefix-of-word) |
 ## Tree
 |  |
 | ------- |
