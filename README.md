@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/1635-number-of-good-pairs) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2383-add-two-integers](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/2383-add-two-integers) |
+| [2491-smallest-even-multiple](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/2491-smallest-even-multiple) |
 | [2556-convert-the-temperature](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/2556-convert-the-temperature) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2812-find-the-maximum-achievable-number](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/2812-find-the-maximum-achievable-number) |
@@ -346,4 +347,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1916-find-center-of-star-graph](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/1916-find-center-of-star-graph) |
+## Number Theory
+|  |
+| ------- |
+| [2491-smallest-even-multiple](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/2491-smallest-even-multiple) |
 <!---LeetCode Topics End-->
