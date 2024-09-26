@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/0567-permutation-in-string) |
 | [0782-jewels-and-stones](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/0782-jewels-and-stones) |
+| [0807-custom-sort-string](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/0807-custom-sort-string) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/1635-number-of-good-pairs) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/0567-permutation-in-string) |
 | [0782-jewels-and-stones](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/0782-jewels-and-stones) |
+| [0807-custom-sort-string](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/0807-custom-sort-string) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/0389-find-the-difference) |
 | [0506-relative-ranks](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/0506-relative-ranks) |
+| [0807-custom-sort-string](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/0807-custom-sort-string) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
