@@ -3,6 +3,7 @@ class Solution:
         orderl=list(order)
         sl=list(s)
         dic={}
+        temp=""
         x=[]
         for i in sl:
             if i in dic:
@@ -12,9 +13,13 @@ class Solution:
 
         for i in orderl:
             if i in sl:
-                for j in range(0,dic[i]):
-                    x.append(i)
-                    sl.remove(i)
+                temp=i*dic[i]
+                x+=list(temp)
+        for i in x:
+            if i in sl:
+                print(i)
+                sl.remove(i)
+
         x=x+sl
         return "".join(x)
 
