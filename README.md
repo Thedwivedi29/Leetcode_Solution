@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2631-sort-the-students-by-their-kth-score](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/2876-number-of-employees-who-met-the-target) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/1677-matrix-diagonal-sum) |
 | [1791-richest-customer-wealth](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/1791-richest-customer-wealth) |
+| [2631-sort-the-students-by-their-kth-score](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/2631-sort-the-students-by-their-kth-score) |
 ## Sorting
 |  |
 | ------- |
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2631-sort-the-students-by-their-kth-score](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3226-minimum-number-game](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/3226-minimum-number-game) |
 ## Stack
