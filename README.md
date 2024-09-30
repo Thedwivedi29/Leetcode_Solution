@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0782-jewels-and-stones](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/0782-jewels-and-stones) |
 | [0807-custom-sort-string](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/0807-custom-sort-string) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/1635-number-of-good-pairs) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0983-validate-stack-sequences](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/0983-validate-stack-sequences) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -308,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 ## Counting
