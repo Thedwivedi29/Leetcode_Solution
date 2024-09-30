@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/0567-permutation-in-string) |
 | [0782-jewels-and-stones](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/0782-jewels-and-stones) |
 | [0807-custom-sort-string](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/0807-custom-sort-string) |
+| [1205-defanging-an-ip-address](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/1205-defanging-an-ip-address) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
