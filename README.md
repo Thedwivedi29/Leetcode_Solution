@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1806-count-of-matches-in-tournament](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/1806-count-of-matches-in-tournament) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2383-add-two-integers](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/2383-add-two-integers) |
+| [2481-strictly-palindromic-number](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/2481-strictly-palindromic-number) |
 | [2491-smallest-even-multiple](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/2491-smallest-even-multiple) |
 | [2556-convert-the-temperature](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/2556-convert-the-temperature) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/0567-permutation-in-string) |
 | [2128-reverse-prefix-of-word](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/2128-reverse-prefix-of-word) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2481-strictly-palindromic-number](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/2481-strictly-palindromic-number) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Binary Search
@@ -392,4 +394,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2491-smallest-even-multiple](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/2491-smallest-even-multiple) |
+## Brainteaser
+|  |
+| ------- |
+| [2481-strictly-palindromic-number](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/2481-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
