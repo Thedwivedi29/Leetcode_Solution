@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/0024-swap-nodes-in-pairs) |
+| [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Hash Table
 |  |
 | ------- |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3194-find-words-containing-character](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/3194-find-words-containing-character) |
 | [3379-score-of-a-string](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/3379-score-of-a-string) |
 | [3412-permutation-difference-between-two-strings](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/3412-permutation-difference-between-two-strings) |
+| [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 | [3567-convert-date-to-binary](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/3567-convert-date-to-binary) |
 ## Sliding Window
 |  |
@@ -351,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1839-decode-xored-array](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/1839-decode-xored-array) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
+| [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
