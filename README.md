@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/0074-search-a-2d-matrix) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0085-maximal-rectangle](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/0074-search-a-2d-matrix) |
+| [0085-maximal-rectangle](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/0085-maximal-rectangle) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/0240-search-a-2d-matrix-ii) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
@@ -272,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/0020-valid-parentheses) |
+| [0085-maximal-rectangle](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/0094-binary-tree-inorder-traversal) |
 | [0232-implement-queue-using-stacks](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/0232-implement-queue-using-stacks) |
 | [0983-validate-stack-sequences](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/0983-validate-stack-sequences) |
@@ -316,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/0053-maximum-subarray) |
+| [0085-maximal-rectangle](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/0152-maximum-product-subarray) |
@@ -421,4 +425,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2481-strictly-palindromic-number](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/2481-strictly-palindromic-number) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/0085-maximal-rectangle) |
 <!---LeetCode Topics End-->
