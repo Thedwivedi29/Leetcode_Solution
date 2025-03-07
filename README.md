@@ -289,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/0774-maximum-depth-of-n-ary-tree) |
+| [0998-check-completeness-of-a-binary-tree](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/0998-check-completeness-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -307,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0998-check-completeness-of-a-binary-tree](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/0998-check-completeness-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -315,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/0774-maximum-depth-of-n-ary-tree) |
+| [0998-check-completeness-of-a-binary-tree](https://github.com/Thedwivedi29/Leetcode_Solution/tree/master/0998-check-completeness-of-a-binary-tree) |
 ## Dynamic Programming
 |  |
 | ------- |
